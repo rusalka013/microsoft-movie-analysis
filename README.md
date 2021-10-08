@@ -67,7 +67,7 @@ For this analysis we used data of 73,052 movies.
 Action, Adventure, Sci-Fi, Fantasy, Mystery, and War have been the most popular movie genres in the past decade. 
 
 ## RATING 
-![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Rating.png)
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Rating%20over%20100%20votes.png)
 
 For this analysis we used data of 28,628 movies with over 100 votes. 
 Documentary, Music, War, Adventure, and Drama have been the highest rated movie genres in the past decade. Their average rating is 8.9. However other 10 genres are  not far behind and rated around 8. 
