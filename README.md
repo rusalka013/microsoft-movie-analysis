@@ -84,7 +84,7 @@ In the category of the most Released genres, the winners are Documentary and Dra
 
 Under the most Popular category, the top 5 are occuied by Action, Adventure, Sci-Fi, Mystery, Fantasy, War, and Drama. We can also see below that these categories are the most profitable as well. For this analysis, we used data of over 73K data entries. However, we have used only one data source.
 
-In the Rating category: Documentary, Comedy, Fantasy, Musical, History, Sport, Game-Shows, Drama, Reality-TV, News have been the highest rated. However, over hundred genre combination have been performing above 7.
+In the Rating category: Adventure, Drama, War, Documentary, Music, Comedy, and History have been the highest rated. However, over hundred genre combination have been performing above 7.
 
 ## DOMESTIC GROSS
 ![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Domestic%20Gross.png)
@@ -125,7 +125,7 @@ Fantasy, Romance, Family, Musical, Action, Adventure, and Sci-Fi make up the top
 
 There is a little positive correlation between rating and population indicating that these two variables have to be considered independently as we did. 
 
-We do see some correlation between most released genre and the highest rated: Documentary. But there might be other factors outside of Rating contributing to Documentary and Drama to be the most released genres.  
+We do see some correlation between most released genre and the highest rated: Documentary and Drama. But there might be other factors outside of Rating contributing to Documentary and Drama to be the most released genres.  
 
 Business Suggestions: 
 * Action, Adventure, Sci-Fi, Fantasy, Mystery, and War are the most popular. They also make up the top 10 most profitable genres. 
