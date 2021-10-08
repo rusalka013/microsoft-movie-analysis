@@ -1,4 +1,3 @@
-# microsoft-movie-analysis
 # Microsoft Movie Analysis
 
 **Authors:** Elena Burlando
@@ -64,3 +63,10 @@ Variables included: movie titles, release year, genres, runtime minutes, ratings
 For this analysis we used data of over 140,736 movies.  
 Documentary and Drama have been the most released movie genres in the past decade. 
 ***
+
+## POPULARITY
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Popularity.png)
+
+For this analysis we used data of 73,052 movies.  
+Action, Adventure, Sci-Fi, Fantasy, Mystery, and War have been the most popular movie genres in the past decade. 
+
