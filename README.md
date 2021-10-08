@@ -97,9 +97,8 @@ Family, Fantasy, Musical, and Romance are performing best financially in domesti
 Fantasy, Romance are performing best financially with over $800M foreign gross. Adventure, Fantasy, Musical, Family are the next highest performing genres with about $500M in foreign gross. 
 
 ## WORLDWIDE GROSS
-![alt text][1][2]
-[1]: https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Worldwide%20Gross.png
-[2]:https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Worldwide%20Gross_2nd%20dataset.png
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Worldwide%20Gross.png)
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Worldwide%20Gross_2nd%20dataset.png)
 
 For this analysis we used data two datasets: Box Office Mojo and The Numbers.  We are getting very similar results per genre or a combination of genres even though some data per genre is missing in one dataset or the other. 
 Fantasy & Romance genres have over $1.2B worldwide gross. Family, Fantasy, Musical are close to $1B. Documentary, Drama, Sport, and Sci-Fi are producing over $0.8B in worldwide gross. 
