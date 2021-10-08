@@ -117,7 +117,7 @@ we  discovered that there is a strong positive correlation between domestic and 
 Domestic gross is responsible  for 47%  of worldwide gross when Foreign gross is responsible for 53%.  
 
 ## COMPARISON ON TOP GENRES IN GROSS INCOME AND ROI:
-![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Comparison%20in%20Release%2C%20Popularity%2C%20Rating.png)
+![alt text](Images/Comparison in Release, Popularity, Rating.png)
 
 Fantasy, Romance, Family, Musical, Action, Adventure, and Sci-Fi make up the top 10 most profitable genres. 
 
