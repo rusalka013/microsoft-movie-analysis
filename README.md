@@ -66,3 +66,47 @@ Documentary and Drama have been the most released movie genres in the past decad
 For this analysis we used data of 73,052 movies.  
 Action, Adventure, Sci-Fi, Fantasy, Mystery, and War have been the most popular movie genres in the past decade. 
 
+## RATING 
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Rating.png)
+
+For this analysis we used data of 28,628 movies with over 100 votes. 
+Documentary, Music, War, Adventure, and Drama have been the highest rated movie genres in the past decade. Their average rating is 8.9. However other 10 genres are  not far behind and rated around 8. 
+
+## CORRELATION BETWEEN RATING AND POPULARITY
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Correlation%20bw%20Rating%20and%20Popularity.png)
+
+There is a little positive correlation (0.13) between rating and population indicating that these two variables have to be considered independently. 
+
+## COMPARISON OF TOP GENRES IN THREE CATEGORIES:
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Comparison%20in%20Released%2C%20Popularity%2C%20Rating.png)
+
+In the category of the most Released genres, the winners are Documentary and Drama. We used the largest sample (population data) we could get from IMDB dataset of around 140K of entries to answer this question. Historically, these two genres have been leading the top 10 from 2010 through 2020.
+
+Under the most Popular category, the top 5 are occuied by Action, Adventure, Sci-Fi, Mystery, Fantasy, War, and Drama. We can also see below that these categories are the most profitable as well. For this analysis, we used data of over 73K data entries. However, we have used only one data source.
+
+In the Rating category: Documentary, Comedy, Fantasy, Musical, History, Sport, Game-Shows, Drama, Reality-TV, News have been the highest rated. However, over hundred genre combination have been performing above 7.
+
+## DOMESTIC GROSS
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Domestic%20Gross.png)
+
+Family, Fantasy, Musical, and Romance are performing best financially in domestic market with at or over $400M gross. 
+
+## FOREIGN GROSS
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Foreign%20Gross.png)
+
+Fantasy, Romance are performing best financially with over $800M foreign gross. Adventure, Fantasy, Musical, Family are the next highest performing genres with about $500M in foreign gross. 
+
+## WORLDWIDE GROSS
+![alt text][1][2]
+[1]: https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Worldwide%20Gross.png
+[2]:https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Worldwide%20Gross_2nd%20dataset.png
+
+For this analysis we used data two datasets: Box Office Mojo and The Numbers.  We are getting very similar results per genre or a combination of genres even though some data per genre is missing in one dataset or the other. 
+Fantasy & Romance genres have over $1.2B worldwide gross. Family, Fantasy, Musical are close to $1B. Documentary, Drama, Sport, and Sci-Fi are producing over $0.8B in worldwide gross. 
+
+## ROI
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20ROI.png)
+
+Fantasy and Romance (aka ’Frozen’) are by far the most profitable genres. On average a combination of these genres is responsible for over $1B in ROI. Family, Fantasy, Musical are the second on the list with ROI over $0.8B. 
+
+
