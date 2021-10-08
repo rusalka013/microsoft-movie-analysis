@@ -106,6 +106,37 @@ Fantasy & Romance genres have over $1.2B worldwide gross. Family, Fantasy, Music
 ## ROI
 ![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20ROI.png)
 
-Fantasy and Romance (aka ’Frozen’) are by far the most profitable genres. On average a combination of these genres is responsible for over $1B in ROI. Family, Fantasy, Musical are the second on the list with ROI over $0.8B. 
+Fantasy and Romance (aka ’Frozen’) are by far the most profitable genres. On average a combination of these genres is responsible for over $1B in ROI. Family, Fantasy, Musical are the second on the list with ROI over $0.8B.
+
+## CORRELATION BETWEEN DOMESTIC AND FOREIGN GROSS 
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Correlation%20bw%20Domestic%20and%20Foreign%20Gross.png)
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Correlation%20bw%20Domestic%20and%20Foreign%20Gross_2nd%20dataset.png)
+
+After analyzing two dataset with financial data: The Numbers and  Box Office Mojo, 
+we  discovered that there is a strong positive correlation between domestic and foreign gross.
+Domestic gross is responsible  for 47%  of worldwide gross when Foreign gross is responsible for 53%.  
+
+## COMPARISON ON TOP GENRES IN GROSS INCOME AND ROI:
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Comparison%20in%20Gross%20and%20ROI.png)
+
+## Conclusions
+
+***
+There is a little positive correlation between rating and population indicating that these two variables have to be considered independently as we did. 
+
+We do see some correlation between most released genre and the highest rated: Documentary. But there might be other factors outside of Rating contributing to Documentary and Drama to be the most released genres.  
+
+Business Suggestions: 
+* Action, Adventure, Sci-Fi, Fantasy, Mystery, and War are the most popular. They also make up the top 10 most profitable genres. 
+* Fantasy and Romance are the most profitable genre combo followed by  Family/Fantasy/Musical 
+and Action/Adventure/Sci-Fi. 
+* Release a movie in both domestic and foreign markets to get the maximum gross. Foreign gross is responsible for over half of worldwide income (~53%). 
+
+Next Steps: 
+* To analyze the trends in genres over the years. 
+* To get more recent data through APIs to see how pandemic has shaped a movie industry. 
+* To perform more in-depth analysis on ROI per genre. 
+* To look into a cast and directors whose movies are the most popular and profitable. 
+
 
 
