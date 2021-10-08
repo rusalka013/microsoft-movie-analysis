@@ -128,10 +128,12 @@ There is a little positive correlation between rating and population indicating 
 We do see some correlation between most released genre and the highest rated: Documentary and Drama. But there might be other factors outside of Rating contributing to Documentary and Drama to be the most released genres.  
 
 Business Suggestions: 
-* Action, Adventure, Sci-Fi, Fantasy, Mystery, and War are the most popular. They also make up the top 10 most profitable genres. 
-* Fantasy and Romance are the most profitable genre combo followed by  Family/Fantasy/Musical 
+* Released and Rating: 
+Documentary and Drama have the highest ratings. 
+* Popularity: Action, Adventure, Sci-Fi, Fantasy, Mystery, and War are the most popular. They also make up the top 10 most profitable genres. 
+* ROI: Fantasy and Romance are the most profitable genre combo followed by  Family/Fantasy/Musical 
 and Action/Adventure/Sci-Fi. 
-* Release a movie in both domestic and foreign markets to get the maximum gross. Foreign gross is responsible for over half of worldwide income (~53%). 
+* Gross: Release a movie in both domestic and foreign markets to get the maximum gross. Foreign gross is responsible for over half of worldwide income (~53%). 
 
 Next Steps: 
 * To analyze the trends in genres over the years. 
