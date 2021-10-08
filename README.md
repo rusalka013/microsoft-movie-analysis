@@ -119,9 +119,10 @@ Domestic gross is responsible  for 47%  of worldwide gross when Foreign gross is
 ## COMPARISON ON TOP GENRES IN GROSS INCOME AND ROI:
 ![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Comparison%20in%20Gross%20and%20ROI.png)
 
+Fantasy, Romance, Family, Musical, Action, Adventure, and Sci-Fi make up the top 10 most profitable genres. 
+
 ## Conclusions
 
-***
 There is a little positive correlation between rating and population indicating that these two variables have to be considered independently as we did. 
 
 We do see some correlation between most released genre and the highest rated: Documentary. But there might be other factors outside of Rating contributing to Documentary and Drama to be the most released genres.  
