@@ -8,7 +8,7 @@ The objective of this project is to analyze movie data to provide insights on mo
 
 As an outcome of this analysis we are hoping to get: 
 * Releases: 
- * Top 10 most produced genres during 2010-2020 (by entry count).
+  * Top 10 most produced genres during 2010-2020 (by entry count).
  * Top 2 most produced genres for each year (by entry count).
 * Popularity: 
  * Top 10 most popular movies and genres during 2010-2019 (by number of votes). 
