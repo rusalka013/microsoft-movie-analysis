@@ -9,20 +9,20 @@ The objective of this project is to analyze movie data to provide insights on mo
 As an outcome of this analysis we are hoping to get: 
 * Releases: 
   * Top 10 most produced genres during 2010-2020 (by entry count).
- * Top 2 most produced genres for each year (by entry count).
+  * Top 2 most produced genres for each year (by entry count).
 * Popularity: 
- * Top 10 most popular movies and genres during 2010-2019 (by number of votes). 
+  * Top 10 most popular movies and genres during 2010-2019 (by number of votes). 
 * Rating:
- * Top 10 highest rated genres during 2010-2019.
- * Top 10 highest rated movies during 2010-2019. 
- * Correlation between ratings and number of votes. 
+  * Top 10 highest rated genres during 2010-2019.
+  * Top 10 highest rated movies during 2010-2019. 
+  * Correlation between ratings and number of votes. 
 * Gross Income and ROI:
- * Movies/genres with the highest domestic gross income. 
- * Movies/genres with the highest foreign gross income.
- * Movies/genres with the highest worldwide gross income. 
- * Correlation between domestic and foreign gross income.
- * Correlation between production budget and ROI. 
- * Movies/genres with the highest ROI (return on investment). 
+  * Movies/genres with the highest domestic gross income. 
+  * Movies/genres with the highest foreign gross income.
+  * Movies/genres with the highest worldwide gross income. 
+  * Correlation between domestic and foreign gross income.
+  * Correlation between production budget and ROI. 
+  * Movies/genres with the highest ROI (return on investment). 
 
 ## Business Problem
 
