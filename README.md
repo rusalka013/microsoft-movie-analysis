@@ -21,7 +21,7 @@ As an outcome of this analysis we are hoping to get:
  * Movies/genres with the highest foreign gross income.
  * Movies/genres with the highest worldwide gross income. 
  * Correlation between domestic and foreign gross income.
- * * Correlation between production budget and ROI. 
+ * Correlation between production budget and ROI. 
  * Movies/genres with the highest ROI (return on investment). 
 
 ## Business Problem
