@@ -42,7 +42,7 @@ Variables included: movie titles, release year, genres, runtime minutes, ratings
 
 * Using these sources we would be able to answer our questions listed above. 
 * The target variables are the top performing movie titles and genres. 
-* We used descriptive analitics, averages(mean), max, and Pearson correlation to answer questions in these four categories that are outlined in the Overview section. 
+* We used descriptive analitics, averages(mean), max, and Pearson correlation to answer questions in these four categories outlined in the Overview section. 
 
 
 ## Data
@@ -109,7 +109,7 @@ we  discovered that there is a strong positive correlation between domestic and 
 Domestic gross is responsible  for 47%  of worldwide gross when Foreign gross is responsible for 53%.  
 
 ## CORRELATION BETWEEN PRODUCTION BUDGET AND ROI
-![alt text](Images/Correlation bw Production Budget and ROI.png)
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Correlation%20bw%20Production%20Budget%20and%20ROI.png)
 
 Positive correlation between Production Budget and ROI of 0.58 suggests that investing into a quality production will lead to a higher Return on Investment. 
 
