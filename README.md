@@ -70,7 +70,7 @@ Adventure, Sci-Fi, Action, and Fantasy have been the most popular movie genres i
 ## RATING 
 ![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Rating%20over%20100%20votes.png)
 
-For this analysis we used data of 28,628 movies with over 100 votes. 
+For this analysis we used data of 28,506 movies with over 100 votes. 
 News, Documentary, and Biography have been the highest rated movie genres in the past decade. Their average rating is 7.1 , 7, and 6.9 respectively. 
 
 ## CORRELATION BETWEEN RATING AND POPULARITY
