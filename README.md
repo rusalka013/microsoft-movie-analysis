@@ -62,7 +62,7 @@ For this analysis we used data of over 140,734 movies.
 Documentary and Drama have been the most released movie genres in the past decade. 
 
 ## POPULARITY
-![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Popularity.png)
+![alt text](https://github.com/rusalka013/microsoft-movie-analysis/blob/main/Images/Top%2010%20by%20Popularity_mean.png)
 
 For this analysis we used data of 72,480 movies.  
 Adventure, Sci-Fi, Action, and Fantasy have been the most popular movie genres in the past decade. 
